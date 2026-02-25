@@ -14,4 +14,4 @@ En la parte final del presente readme se anexa el link que lo redijira a la pagi
 <li>Imagenes y enlaces que redirijen al usuario a otras paginas donde puede consultar mas informacion.</li>
 </ol>
 
-<a href="./Index y agregados/index.html">Proyecto Final<>
+<a href="./Index y agregados/index.html">Proyecto Final
